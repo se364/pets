@@ -1,4 +1,12 @@
 body{
     color:#171a1d ;
     background-color: #7abaff;
+    margin: 0 100px;
+}
+img{
+    text-shadow: 2px 2px red;
+    /*margin: 80px 100px 100px 80px;*/
+    border-radius: 25px;
+    border-style: solid;
+    border-color: coral;
 }

@@ -10,4 +10,8 @@ img{
     border-style: solid;
     border-color: coral;
 }
+p {
+    font-weight: bold;
+    size: 2em;
+}
 

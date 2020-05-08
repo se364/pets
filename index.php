@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Shah Emran
+ * Shah Emran, Zach Frehner
  * 4/17/2020
  *
  * Pair Program 2
@@ -21,7 +21,7 @@ $f3 = Base::instance();
 $f3->route('GET /', function(){
     //echo '<h1> Pet Home</h1>';
     $view = new Template();
-    echo $view->render('views/home.html');
+    echo $view->render('views/pet-home.html');
     }
 );
 
